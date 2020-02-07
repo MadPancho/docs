@@ -3,6 +3,6 @@ Here in this repo, Documentation and translations. Here u can help to translate,
 
 pls 💖
 
-# Command List
+
 
 
