@@ -2,6 +2,8 @@
 Here in this repo, Documentation and translations. Here u can help to translate, report bugs and stuff like that.
 
 pls 💖
+
+[Invite Shinoa to your guild!](https://discordapp.com/oauth2/authorize?client_id=392129755492646923&scope=bot&permissions=2146958583) 🐳 [Join the Shinoa's R&D server ](https://discord.gg/9kdK9pN) 🍕 [Twitter](https://twitter.com/MadCPancho)
 ***
 
 ### Args
