@@ -41,6 +41,36 @@ pls 💖
 **classess**
   ` Beast, Shielder, Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker, Avenger, Deprived, Ruler, Foreigner, Alterego, Mooncancer`
   
+  
+  ***
+  ## Lang Commands
+  Change the bot lang
+ | Commands | Description |
+ | --- | --- |
+ | !!lang get | Gets the current lang setted. |
+ | !!lang set channel [(lang)] | Changes the current lang in that channel. |
+ | !!lang set guild [(lang)] | Changes the current lang in the guild. |
+ 
+ | lang | code |
+ | --- | --- |
+ | Español | es |
+ | English | en |
+ | Portugues | pt |
+ | Française | fr |
+ | Polski | pl |
+ | Română | ro |
+ 
+  ***
+  ## Image Commands
+  + !!e 
+  + !!flip 
+  + !!flop 
+  + !!haah 
+  + !!hooh 
+  + !!waaw 
+  + !!woow 
+  + !!pewds1 - Add to the current image a pewds face from his thumbs
+ 
   ***
 ## String Commands
   | Commands | Input | Output |
