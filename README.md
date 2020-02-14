@@ -63,6 +63,17 @@ pls 💖
  | Română | ro |
  
   ***
+  ## Tag Commands
+  a wonderful world of tags
+ | Commands | Description |
+ | --- | --- |
+ | !!t add [tagname] [content or attachment] | Adds a new tag |
+ | !!t remove [tagname] | Romove the mentioned tag |
+ | !!t edit [tagname] [content or attachment]  | Edit the mentioned tag |
+ | !!t list [(user)] | List all your or a friend tags  |
+ | !!t owner [tagname] | Shows who owns the current tag |
+ 
+  ***
   ## Image Commands
   + !!e 
   + !!flip 
